@@ -30,3 +30,7 @@ These agents are orchestrated in a sequential pipeline, enabling multi-step reas
 - LLM abstraction layer for flexible model integration
 
 ## Project Structure
+##  运行方式
+
+```bash
+python main.py
